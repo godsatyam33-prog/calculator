@@ -59,7 +59,7 @@ export default function Footer() {
               </p>
               <div className="text-xs text-gray-500 dark:text-gray-500">
                 {/* HEY, HOLD UR HORSES, EITHER FULLY REMOVE IT OR KEEP IT. IT WOULD BE A SHAME IF I BUSTED YOU FOR CLAIMING YOU DID SOMETHING THAT U DIDN'T, RIGHT?  */}
-                Made by <span className="icon-text-primary font-medium">Anthony S</span>
+                Made by <span className="icon-text-primary font-medium">Rekaixp</span>
               </div>
             </motion.div>
             <motion.div
@@ -146,7 +146,7 @@ export default function Footer() {
             {/* Look, remove the DezerNova add ur own hosting, but go above and change ur name to MY NAME AGAIN. come onn man, it would look like i worked for you. come on buddy, i know u want to keep it.  */}
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="text-gray-500 dark:text-gray-500 text-sm mb-4 md:mb-0">
-                © {new Date().getFullYear()} DezerNova. All rights reserved.
+                © {new Date().getFullYear()} RenderByte. All rights reserved.
               </div>
               <div className="flex items-center space-x-6">
                 <div className="flex items-center space-x-2">
