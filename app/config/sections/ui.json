@@ -1,6 +1,6 @@
 {
   "loading": {
-    "enableLoadingScreen": true,
+    "enableLoadingScreen": false,
     "loadingDuration": 1000
   },
   "currency": {
@@ -17,7 +17,7 @@
     ]
   },
   "themeSwitcher": {
-    "show": false,
+    "show": truee,
     "position": "bottom-left",
     "defaultColor": "orange",
     "availableColors": [
