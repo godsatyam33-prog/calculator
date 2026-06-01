@@ -51,8 +51,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: "RenderByte - Game Hosting, VPS & Dedicated Servers",
-    template: "%s | RenderByte"
+    default: "NextyHost - Game Hosting, VPS & Dedicated Servers",
+    template: "%s | NextyHost"
   },
   description: "Premium game hosting, VPS & dedicated servers by DezerNova. High-performance infrastructure with 99.9% uptime, DDoS protection & 24/7 support.",
   keywords: [
@@ -73,28 +73,28 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Rekaixp" }],
   creator: "Rekaixp",
-  publisher: "RenderByte | Rekaixp",
+  publisher: "NextyHost | Rekaixp",
   category: "Game Hosting & Server Solutions",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.renderbyte.site",
-    siteName: "RenderByte - Game Hosting & Servers",
-    title: "RenderByte - Game Hosting, VPS & Dedicated Servers",
+    url: "https://www.NextyHost.com",
+    siteName: "NextyHost - Game Hosting & Servers",
+    title: "NextyHost - Game Hosting, VPS & Dedicated Servers",
     description: "Premium game hosting, VPS, and dedicated server solutions. High-performance infrastructure for gaming communities and developers with DDoS protection.",
     images: [
       {
         url: "https://nova.dezerx.com/meta/Banner.png",
         width: 1200,
         height: 630,
-        alt: "RenderByte - Game Hosting, VPS & Dedicated Servers",
+        alt: "NextyHost - Game Hosting, VPS & Dedicated Servers",
         type: "image/png"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "RenderByte - Game Hosting, VPS & Dedicated Servers",
+    title: "NextyHost - Game Hosting, VPS & Dedicated Servers",
     description: "Premium game hosting and server solutions. High-performance infrastructure for gaming communities with DDoS protection and 24/7 support.",
     images: ["https://nova.dezerx.com/meta/Banner.png"]
   },
@@ -118,7 +118,7 @@ export const metadata: Metadata = {
     google: "vzsKvhNUgAPlCbf1annB0Sl-bttSFos87mhOyQSU2aY", 
   },
 
-  applicationName: "RenderByte",
+  applicationName: "NextyHost",
   referrer: "origin-when-cross-origin",
 
   manifest: "/manifest.json",
