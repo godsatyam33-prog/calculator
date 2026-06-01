@@ -17,7 +17,7 @@
     ]
   },
   "themeSwitcher": {
-    "show": truee,
+    "show": true,
     "position": "bottom-left",
     "defaultColor": "orange",
     "availableColors": [
