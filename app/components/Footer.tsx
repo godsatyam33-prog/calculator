@@ -24,9 +24,9 @@ export default function Footer() {
   ]
 
   const contactInfo = [
-    { icon: Mail, label: t('footer.email'), value: "support@dezerx.com", href: "mailto:support@dezerx.com" },
-    { icon: Phone, label: t('footer.phone'), value: "N/A", href: "tel:+15551234567" },
-    { icon: Gamepad2, label: t('footer.gamePanel'), value: "panel.dezerx.com", href: "https://panel.dezerx.com" },
+    { icon: Mail, label: t('footer.email'), value: "support@nextyhost.com", href: "mailto:support@nextyhost.com" },
+    { icon: Phone, label: t('footer.phone'), value: "N/A", href: "tel:+916398923284" },
+    { icon: Gamepad2, label: t('footer.gamePanel'), value: "gamepanel.nextyHost.com", href: "https://gamepanel.nextyhost.com/" },
   ]
 
   return (
@@ -146,7 +146,7 @@ export default function Footer() {
             {/* Look, remove the DezerNova add ur own hosting, but go above and change ur name to MY NAME AGAIN. come onn man, it would look like i worked for you. come on buddy, i know u want to keep it.  */}
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div className="text-gray-500 dark:text-gray-500 text-sm mb-4 md:mb-0">
-                © {new Date().getFullYear()} RenderByte. All rights reserved.
+                © {new Date().getFullYear()} NextyHost. All rights reserved.
               </div>
               <div className="flex items-center space-x-6">
                 <div className="flex items-center space-x-2">
