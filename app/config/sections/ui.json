@@ -1,6 +1,6 @@
 {
   "loading": {
-    "enableLoadingScreen": false,
+    "enableLoadingScreen": true,
     "loadingDuration": 1000
   },
   "currency": {
