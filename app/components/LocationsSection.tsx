@@ -6,13 +6,13 @@ import { Globe } from "@/components/ui/globe";
 
 const locations = [
     {
-        name: "Amsterdam",
-        region: "EU West",
-        flag: "/flags/germany.png",
-        ping: "66ms",
+        name: "Mumbai",
+        region: "India",
+        flag: "/flags/india.png",
+        ping: "26ms",
         status: "active",
-        lat: 52.3676,
-        lng: 4.9041,
+        lat: 18.5197,
+        lng: 73.8545,
     },
     {
         name: "Chicago, IL",
