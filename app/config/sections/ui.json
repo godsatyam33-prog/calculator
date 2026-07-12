@@ -17,9 +17,9 @@
     ]
   },
   "themeSwitcher": {
-    "show": false,
+    "show": true,
     "position": "bottom-left",
-    "defaultColor": "yellow",
+    "defaultColor": "blue",
     "availableColors": [
       {
         "name": "orange",
